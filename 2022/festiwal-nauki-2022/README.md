@@ -17,21 +17,20 @@ Na Wielki Finał szykujemy coś specjalnego … lasery, które posłużą do pok
 Wszyscy poczują klimat dyskoteki szkolnej z lat 80 – dlatego zapraszamy do przyjścia w modnym obecnie retro z tamtych lat!
 
 ### MATERIAŁY
-...
-<!--- 
-| [![Video na YouTube](https://img.youtube.com/vi/XXXXX/sddefault.jpg)](https://youtu.be/XXXXX) |
-|:--:|
-| [Video na YouTube](xxx). |
 
-| [![Slajdy w PDF](figs/Lab4US-banner-PL.png)](xxx) |
+| [![Video na YouTube](https://img.youtube.com/vi/1YFF4WXSf8I/sddefault.jpg)](https://www.youtube.com/watch?v=1YFF4WXSf8I) |
 |:--:|
-| [Slajdy w PDF](xxx). |
---->
+| [Video na YouTube](https://www.youtube.com/watch?v=1YFF4WXSf8I). |
+
+| [![Slajdy w PDF](figs/2022-Festiwal-Music_Synth.png)](2022-Festiwal-Music_Synth.pdf) |
+|:--:|
+| [Slajdy w PDF](2022-Festiwal-Music_Synth.pdf). |
 
 <u>Pliki konfiguracyjne (tzw. patch) do oprogramowania [VCV Rack 2](https://vcvrack.com/Rack)</u>:
 
-- [Syntezator 1x VCO+ ...](vcv/xxx.vcv)
-- [Syntezator 1x VCO+ ...](vcv/xxx.vcv)
+- [vco.vcv](vcv/vco.vcv) - elementrany Syntezator z 1x VCO + VCA/ADSR + VCF.
+- [lissajous.vcv](vcv/lissajous.vcv) - prosty generator krzywych Lissajous.
+- [lissajous-art.vcv](vcv/lissajous-art.vcv) - generator krzywych Lissajous z wykorzystaniem oscylatora wavetable oscillator XFX Wave.
 
 
 ### LINKI
