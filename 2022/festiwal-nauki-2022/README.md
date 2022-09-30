@@ -11,16 +11,15 @@
 Synteza dźwięków fascynowała ludzi od dawna. Pierwsze syntezatory elektroniczne powstały w latach 1950, a wielki boom na ich wykorzystanie w muzyce nastąpił na przełomie lat 1970/1980. Dzisiaj syntezatory są nieodłącznym elementem niemal każdego gatunku muzycznego. 
 
 Chcemy pokazać na czym polega synteza dźwięku i jak zbudowane są syntezatory analogowe i cyfrowe. Do dzisiaj dźwiękowcy i artyści wykorzystują ogromne syntezatory modularne do tworzenia unikalnych dźwięków, które znamy z filmów.
-Interesujące będzie także usłyszeć w jaki sposób z prostych przebiegów elektrycznych tworzy się dźwięki, akordy, a potem melodię. Pokażemy odwrotność syntezy – czyli analizę spektralną. 
 
 Na Wielki Finał szykujemy coś specjalnego … lasery, które posłużą do pokazania obrazów rysowanych muzyką!
 Wszyscy poczują klimat dyskoteki szkolnej z lat 80 – dlatego zapraszamy do przyjścia w modnym obecnie retro z tamtych lat!
 
 ### MATERIAŁY
 
-| [![Video na YouTube](https://img.youtube.com/vi/1YFF4WXSf8I/sddefault.jpg)](https://www.youtube.com/watch?v=1YFF4WXSf8I) |
+| [![Video na YouTube](https://img.youtube.com/vi/xMd9vkKNp2s/sddefault.jpg)](https://www.youtube.com/watch?v=xMd9vkKNp2s) |
 |:--:|
-| [Video na YouTube](https://www.youtube.com/watch?v=1YFF4WXSf8I). |
+| [Video na YouTube](https://www.youtube.com/watch?v=xMd9vkKNp2s). |
 
 | [![Slajdy w PDF](figs/2022-Festiwal-Music_Synth.png)](2022-Festiwal-Music_Synth.pdf) |
 |:--:|
